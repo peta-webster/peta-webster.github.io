@@ -6,6 +6,7 @@
 .email a { color: inherit; }
 .social-icons { margin-bottom: 24px; }
 .research-interests, .education { padding-left: 22px; }
+.education li + li { margin-top: 12px; }
 .project { margin-bottom: 22px; }
 .project h3 { margin: 0 0 5px; font-size: 1.05rem; }
 .project p { margin: 0; }
