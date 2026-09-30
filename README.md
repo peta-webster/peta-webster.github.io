@@ -1,6 +1,6 @@
 # Yi Zhang — Academic Homepage
 
-English academic homepage for Yi Zhang (张毅), a Ph.D. student in Industrial Engineering at Tsinghua University.
+English academic homepage for Yi Zhang (张毅), a Ph.D. student in the Department of Industrial Engineering at Tsinghua University.
 
 This site uses the official static HTML edition of [Minimal Light](https://github.com/yaoyao-liu/minimal-light), based on upstream commit `1ea07f39518ac44644406380c83da6f89037c4fc`. The upstream license is preserved in `LICENSE`.
 
