@@ -1,0 +1,22 @@
+/* Small adjustments to Minimal Light for the bilingual name and profile. */
+.chinese-name { display: block; margin-top: 9px; font-size: 19px; font-weight: 400; }
+.profile-details { margin-bottom: 24px; }
+.position { font-size: 1.1rem; }
+.email { font-family: "Ubuntu Mono", monospace; font-size: 14px; }
+.email a { color: inherit; }
+.social-icons { margin-bottom: 24px; }
+.research-interests { padding-left: 22px; }
+.project { margin-bottom: 22px; }
+.project h3 { margin: 0 0 5px; font-size: 1.05rem; }
+.project p { margin: 0; }
+.theme-credit { margin-top: 36px; }
+a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+.skip-link { position: absolute; left: -10000px; top: 8px; }
+.skip-link:focus { left: 16px; z-index: 1; padding: 8px 12px; background: #fff; }
+@media (prefers-color-scheme: dark) {
+  .skip-link:focus { background: #20212b; }
+}
+@media screen and (max-width: 960px) {
+  header { padding-top: 25px; padding-bottom: 25px; }
+  section { border-bottom: 0; }
+}
