@@ -5,7 +5,7 @@
 .email { font-family: "Ubuntu Mono", monospace; font-size: 14px; }
 .email a { color: inherit; }
 .social-icons { margin-bottom: 24px; }
-.research-interests { padding-left: 22px; }
+.research-interests, .education { padding-left: 22px; }
 .project { margin-bottom: 22px; }
 .project h3 { margin: 0 0 5px; font-size: 1.05rem; }
 .project p { margin: 0; }
